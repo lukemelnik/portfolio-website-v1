@@ -1,6 +1,6 @@
 # Portfolio V1
 
-## ![A photo of the website](./website-screenshot.png)
+![A photo of the website](./website-screenshot.png)
 
 The first iteration of my portfolio site. I learned (and keep learning) a lot from this project:
 
