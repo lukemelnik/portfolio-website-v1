@@ -1,6 +1,6 @@
 # Portfolio V1
 
-![A photo of the website](./website-screenshot.png)
+[![A photo of the website](./website-screenshot.png)](https://lukemelnik.com)
 
 The first iteration of my portfolio site. I learned (and keep learning) a lot from this project:
 
@@ -12,6 +12,8 @@ The first iteration of my portfolio site. I learned (and keep learning) a lot fr
 - Improved accessibility and performance Lighthouse score from 85 to 97+
 
 ---
+
+## [Visit The Live Site](https://lukemelnik.com)
 
 ## Installation
 
