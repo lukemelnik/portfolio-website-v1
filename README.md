@@ -2,7 +2,7 @@
 
 [![A photo of the website](./website-screenshot.png)](https://lukemelnik.co)
 
-## [Visit The Live Site](https://lukemelnik.co)
+## [See It Live ->](https://lukemelnik.co)
 
 The first iteration of my portfolio site. I learned (and keep learning) a lot from this project:
 
